@@ -15,5 +15,5 @@ The project makes use of the following files:
 - washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Kudoos to Udacity for proposing and walking me through this project
 
