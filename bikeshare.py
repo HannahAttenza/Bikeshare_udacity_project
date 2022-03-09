@@ -223,6 +223,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
+    """Asks user to see raw data."""
     while True:
         raw_data = input('\nWould you like to see 5 lines of raw data? Enter yes or no.\n')
         if raw_data not in ('yes','no'):
